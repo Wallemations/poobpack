@@ -79,6 +79,11 @@ hash = "34021b5e1c4725156f1d864fc637efb43dfb96ee473c65716982fb0bcd3c1223"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "55ab212ba17d188a2f95b65d4cf63bbc98c664aa74986b57d288d12e62bac780"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
