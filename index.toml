@@ -761,13 +761,13 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+file = "mods/decorative-blocks.pw.toml"
+hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
+file = "mods/discord-chat-connect.pw.toml"
+hash = "b46c882d8f7c58268f8f80d06b7a9c20030963392ef097d78e29d2eec4478023"
 metafile = true
 
 [[files]]

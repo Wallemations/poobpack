@@ -1,0 +1,13 @@
+name = "Discord & Chat Images"
+filename = "discord_chat_mod-forge-1.20.1-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yIWYj2mo/versions/GEn5vFzV/discord_chat_mod-forge-1.20.1-2.6.2.jar"
+hash-format = "sha512"
+hash = "0395d86bad911f0f0fb48452e32f7e33a794ba7be5d5d3b0ba16d128efe875ecd591272de5a174c0cee504d48cc0a3927f28f1bd61aaf8c81403914023ddfaeb"
+
+[update]
+[update.modrinth]
+mod-id = "yIWYj2mo"
+version = "GEn5vFzV"
