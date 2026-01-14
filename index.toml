@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/deploy.yml"
+hash = "49ea9d401342249259182ae5215afd6fa9ad843cdebb15b973746f9dae723c47"
+
+[[files]]
 file = ".github/workflows/refreshpack.yml"
-hash = "9a7981d954b966b27c35eed6ab51d96f50103c1887823564aeb42d148ee575bc"
+hash = "09237850534a45a609fada0f5ad00ff57e595942672401671c063e962ba9f817"
 
 [[files]]
 file = "config/alexscaves-client.toml"
