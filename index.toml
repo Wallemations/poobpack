@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/refreshpack.yml"
+hash = "b772a912c99e641bfcf526286d19c8c54e77d02f5517ddc5516e872c84d2b273"
+
+[[files]]
 file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "78bc9876221e14bce3c5a92a6dfa77743ee2cff5c67a3e21feae5dc0cf7796ee"
 
 [[files]]
 file = "config/fancymenu/animation_controller_states.json"
@@ -696,6 +704,11 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -753,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -926,8 +944,18 @@ hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "f93de38d5bb0a9d63585120d0531e6b366f6132e19582987582e638dd335ff4c"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "0a96e881040a95b2543d18afc3f9e1727e64659ec1548ed2df4fcd7dafbfbbc7"
 metafile = true
 
 [[files]]
@@ -1088,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/table-top-craft.pw.toml"
 hash = "c8597c7c0d8768c1dbef6cbcc7d45846933aa0528074bf41878e7cf0683f6a1f"
+metafile = true
+
+[[files]]
+file = "mods/tconjei.pw.toml"
+hash = "abce0d749f447733175881627cfcee289e429e9704279393842957babfd44462"
 metafile = true
 
 [[files]]
