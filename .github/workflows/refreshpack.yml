@@ -6,8 +6,8 @@ name: refreshpack
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   #uncomment when im done testing other workflows
-  # push:
-  #  branches: [ "main" ]
+  push:
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
