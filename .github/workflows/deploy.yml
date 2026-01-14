@@ -15,21 +15,27 @@ jobs:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Execute remote SSH commands using SSH key
+      - uses: actions/checkout@v4
+      - name: Pull data
         uses: appleboy/ssh-action@v1
         with:
           host: ${{ secrets.SSH_HOST}}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVKEY }}
-          script: ./sshtest.sh thjis
-        
-      - name: sleep a little
-        run: sleep 10
-        
-      - name: Run another
+          script: ./serverpull.sh
+      - name: Inform of server shutdown
         uses: appleboy/ssh-action@v1
         with:
           host: ${{secrets.SSH_HOST}}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVKEY }}
-          script: ./sshtest.sh work?s
+          script: ./sshsay.sh "Server will restart in 1 minute!"
+      - name: Wait a minute!
+        run: sleep 60
+      - name: Restart the server!
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.SSH_HOST}}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVKEY }}
+          script: systemctl --user restart poob.service
