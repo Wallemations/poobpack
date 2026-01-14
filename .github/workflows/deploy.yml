@@ -21,7 +21,7 @@ jobs:
           host: ${{ secrets.SSH_HOST}}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVKEY }}
-          script: sshtest.sh thjis
+          script: ./sshtest.sh thjis
         
       - name: sleep a little
         run: sleep 10
@@ -32,4 +32,4 @@ jobs:
           host: ${{secrets.SSH_HOST}}
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVKEY }}
-          script: sshtest.sh work?s
+          script: ./sshtest.sh work?s
