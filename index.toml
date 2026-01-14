@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/refreshpack.yml"
+hash = "1507ff4654d7fdb71c5bf39a10b471415ebfbf22259415b85e1332584f7bff82"
+
+[[files]]
 file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c"
+hash = "78bc9876221e14bce3c5a92a6dfa77743ee2cff5c67a3e21feae5dc0cf7796ee"
 
 [[files]]
 file = "config/fancymenu/animation_controller_states.json"
