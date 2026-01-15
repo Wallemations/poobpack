@@ -13,6 +13,10 @@ file = "config/alexsmobs.toml"
 hash = "78bc9876221e14bce3c5a92a6dfa77743ee2cff5c67a3e21feae5dc0cf7796ee"
 
 [[files]]
+file = "config/backpacked-common.toml"
+hash = "835639c5d5c6cf27563e327dcc1f42b10a97537a98de8f29c6caa2ebf7a6b819"
+
+[[files]]
 file = "config/fancymenu/animation_controller_states.json"
 hash = "63552006b1e436cbab7a0e0566994e40f1ec86776c7b83a3f71d4917d7741e59"
 
@@ -684,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/auudio.pw.toml"
 hash = "6620a1c58f283e37cbb1b73a82644808bf635817bd5fda6676d48e150acc994f"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "231924ea496fbdbf6f0b11af96a72ee1fb8cc5bd96d7d7e22eccd286d027bac0"
 metafile = true
 
 [[files]]
