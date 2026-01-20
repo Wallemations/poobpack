@@ -1001,6 +1001,11 @@ hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
@@ -1216,6 +1221,11 @@ hash = "aba59fd89c4085dc61a0106abdb9a673928021a0f8f99467337779bd06d8cceb"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
@@ -1288,6 +1298,16 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "76e4681bea67f97c8cd0b14c289cf1fbc71a6b475929fafc4132040becdc9047"
 metafile = true
 
 [[files]]
