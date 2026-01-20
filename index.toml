@@ -630,7 +630,7 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
 [[files]]
 file = "kubejs/server_scripts/fisherman_compat.js"
-hash = "3ead451a888d217d3a145f68f8176a9ff3160f28123b850e2cf0e149a1634455"
+hash = "646ddcdee1a944d19a06374164f6ae38c3ff1c1243a2037be941631eace34eab"
 
 [[files]]
 file = "kubejs/server_scripts/nocopper.js"
