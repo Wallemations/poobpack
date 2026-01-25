@@ -794,11 +794,6 @@ hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
@@ -1309,11 +1304,6 @@ hash = "aba59fd89c4085dc61a0106abdb9a673928021a0f8f99467337779bd06d8cceb"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-chipped.pw.toml"
-hash = "6404fb65e80b83afe92bad0d4562253d2b7f821114e5574fcf7eb58e08b6da66"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
@@ -1341,11 +1331,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
-metafile = true
-
-[[files]]
-file = "mods/roadarchitect.pw.toml"
-hash = "0e621917677a52dd4a4406c3c4e04820600cfe91ad51a9c5ca1dce968c481c59"
 metafile = true
 
 [[files]]
