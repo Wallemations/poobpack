@@ -1153,6 +1153,11 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-delight.pw.toml"
 hash = "a3774b5c23d616cbf1cf9322577e185b5cd7f16cc721ad5c60303d6145361415"
 metafile = true
@@ -1465,4 +1470,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
+metafile = true
+
+[[files]]
+file = "mods/zombification.pw.toml"
+hash = "5c938686c6d332023751b1972b3f56eb5b4daebe89359efafe0cd438ac254014"
 metafile = true
